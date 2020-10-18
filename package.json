@@ -1,0 +1,21 @@
+{
+    "name": "neon-dreams",
+    "displayName": "Neon Dreams",
+    "description": "Retro theme for neon dreams",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Dreams",
+                "uiTheme": "vs-dark",
+                "path": "./themes/neon-dreams-color-theme.json"
+            }
+        ]
+    }
+}
